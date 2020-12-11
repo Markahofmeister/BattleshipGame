@@ -1,8 +1,8 @@
 %Mark Hofmeister 
 %11/09/2020
-%Team Number 3
+%Team Members: Christina Sivaprakasam, Rayna Schoenberger 
 %Portfolio Project: Battleship Game 
-
+%
 function battleShipMasterCode() 
 
 clear
