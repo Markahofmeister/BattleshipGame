@@ -9,4 +9,4 @@ After every turn, a grid showing each enetered coordinate will be shown, indicat
 The pictures to indicate a hit, miss, sunken ship, or victory are ignored on Git; any appropriate images can be used. 
 
 
-This is written entirely in MATLAB.
+This is written entirely in MATLAB. More information can be found on [my website.](https://www.markhofmeister.com/matlab-battleship-game)
